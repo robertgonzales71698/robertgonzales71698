@@ -1,4 +1,4 @@
-### Hi there, I'm Robert Gonzales 👋 
+## Hi there, I'm Robert Gonzales 👋 
 
 [![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Frobertgonzales71698.github.io/mywebsite/)](https://robertgonzales71698.github.io/mywebsite/)
 
@@ -8,12 +8,20 @@
 -   I'm looking to build my portfolio with skills such as video and photo editing 🎥  📸
 -   I will be moving to Arizona this summer 🏜
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Robert Gonzales | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Robert Gonzales | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Robert Gonzales | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+### My GitHub stats:
+<img align="left" alt="Robert Gonzales GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=robertgonzales71698&show_icons=true&hide_border=true" /> 
 
 
 [website]: https://robertgonzales71698.github.io/mywebsite/
