@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Frobertgonzales71698.github.io/mywebsite/)](https://robertgonzales71698.github.io/mywebsite/)
 
 ## I'm a Student, Developer, and traveler!
--   I currently attend the University of Oklahoma and major in Computer Science 🔴 ⚪️ 
+-   I earned a Bachlors degree in Computer Science from The University of Oklahoma 🔴 ⚪️ 
 -   I’m currently developing my personal website from scratch 💻
 -   I'm looking to build my portfolio with skills such as video and photo editing 🎥  📸
--   I will be moving to Arizona this summer 🏜
+-   I just moved to Tempe, AZ to work for Boeing on their vertical lift programs as a software engineer 🏜
 <br />
 <hr />
 
